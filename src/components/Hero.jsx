@@ -1,9 +1,11 @@
 import {motion} from 'framer-motion';
 import {styles} from '../components/styles';
+import { ComputersCanvas } from './canvas';
+
 
 const Hero = () => {
   return (
-    <div>Hero</div>
+    <section className=''>Hero</section>
   )
 }
 
